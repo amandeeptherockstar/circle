@@ -1,0 +1,15 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "ghibli-theme",
+    "master"
+  ],
+  "parent": {
+    "ghibli-theme": "master",
+    "master": null
+  },
+  "order": [
+    "master",
+    "ghibli-theme"
+  ]
+}
